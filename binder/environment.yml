@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - bokeh=1.4.0
+  - dask
+  - distributed
+  - dask-labextension
+  - jupyterlab
+  - numpy
+  - python-graphviz
+  - seaborn
+  - matplotlib
+  - pyscal
+  - lammps
+  - pylammpsmpi
+  - tqdm
